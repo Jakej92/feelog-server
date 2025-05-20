@@ -70,7 +70,7 @@
 <h2>5. 담당 업무</h2>
 5-1 퍼블리싱
 
-<img src="https://github.com/user-attachments/assets/1ea2bc15-84cf-4cde-8a3b-94e133b4da30"/>
+<img src="https://github.com/user-attachments/assets/229c922f-606c-4bad-8ef1-4074199228ee"/>
 
 ▶ 관리자 페이지
 - 관리자 홈, 회원/관리자 목록
@@ -91,8 +91,8 @@
 
 5-2 서버
 
-<img src="https://github.com/user-attachments/assets/3382db61-4243-4f11-8122-645515cd6963"/>
-<img src="https://github.com/user-attachments/assets/033ce043-2eca-4777-b1be-83d9d61484dd"/>
+<img src="https://github.com/user-attachments/assets/a44b1be7-e117-4696-990b-d42c776841c7"/>
+<img src="https://github.com/user-attachments/assets/778d1d2a-5dfa-492d-8fdf-8d4b688a11c3"/>
 
 ▶ 관리자 페이지(REST)
 - 관리자, 회원 정보 DB 저장 및 소프트 딜리트
