@@ -1,197 +1,189 @@
 # Feelog
 
-<h1>함께쓰는 마음일기 - 'Feelog'</h1>
+<h1>Collaborative Emotion Diary - 'Feelog'</h1>
 
-<h2>1. 기획 의도</h2>
+<h2>1. Project Purpose</h2>
 
 <img src="https://github.com/user-attachments/assets/0560e041-2cc7-44d7-ba6d-848b4ea0b412"/>
 
-전 세계적으로 우울증과 자살률은 점차 감소하고 있지만, 우리나라는 여전히 <strong>높은 자살률과 우울증 유병률</strong>을 보이고 있습니다.</br>
-기존 일기의 단순 기록 방식에서 벗어나, <strong>감정을 나누고 소통할 수 있는 플랫폼</strong>을 통해 감정의 무게를 덜고자 본 프로젝트를 기획하게 되었습니다.
+Although depression and suicide rates are declining globally, Korea still shows <strong>high rates of suicide and depression prevalence</strong>.</br>
+This project was planned to move beyond the traditional style of simple diary records and create a <strong>platform to share and communicate emotions</strong> to lighten the emotional burden.
 
-<h2>2. 기대 효과</h2>
+<h2>2. Expected Outcomes</h2>
 
 <img src="https://github.com/user-attachments/assets/7216d8d2-99a1-4cbd-a2e8-6c8cbd878cab"/>
 
-<strong>감정 관리 습관을 형성하고 정서적 회복</strong>을 유도합니다.</br>
-또한, 커뮤니티 기반의 공감과 응원을 통해 <strong>정서적 안정감</strong>을 제공할 수 있습니다.</br>
-일상 속 힐링을 위한 챌린지 참여를 유도하고, 응원 메시지와 이모티콘을 통해 <strong>감정 환기와 긍정적인 경험</strong>을 제공합니다.
+Encourages the formation of <strong>emotional management habits and emotional recovery</strong>.</br>
+Also provides a sense of <strong>emotional stability</strong> through community-based empathy and support.</br>
+Promotes participation in healing challenges in everyday life and offers <strong>emotional release and positive experiences</strong> through support messages and emoticons.
 
-<h2>3. 프로젝트 사용 툴</h2>
+<h2>3. Tools Used in the Project</h2>
 
-💻 언어 & 프레임워크
-  - Java
-  - Javascript
-  - Spring Boot
-  - Fast API
-  - MyBatis
-  - JSON
-  - Thymeleaf
-  - Python
+💻 Language & Frameworks
+- Java
+- Javascript
+- Spring Boot
+- Fast API
+- MyBatis
+- JSON
+- Thymeleaf
+- Python
 
-🛠️ 개발 환경 & IDE
-  - IntelliJ IDEA
-  - Pycharm
-  - Visual Studio Code
-  - Sourcetree
-  - Git, Github
-  - Apache Tomcat
-  - JDK 11.0.15
+🛠️ Development Environment & IDEs
+- IntelliJ IDEA
+- Pycharm
+- Visual Studio Code
+- Sourcetree
+- Git, Github
+- Apache Tomcat
+- JDK 11.0.15
 
-🗄️ 데이터베이스 & DB 툴
-  - Oracle Database
-  - MySql
+🗄️ Databases & DB Tools
+- Oracle Database
+- MySql
 
-🌐 API & 외부 서비스
-  - Kakao Deverlopers (로그인 API)
-  - CoolSMS API
-  - OpenAI Platform
+🌐 APIs & External Services
+- Kakao Developers (Login API)
+- CoolSMS API
+- OpenAI Platform
 
-📦 빌드 & 의존성 관리
-  - Gradle
+📦 Build & Dependency Management
+- Gradle
 
-🔔 협업 & 커뮤니케이션
-  - Slack
+🔔 Collaboration & Communication
+- Slack
 
-🎨 디자인 & 퍼블리싱
-  - HTML / CSS
+🎨 Design & Publishing
+- HTML / CSS
 
-📷 기타 도구
-  - Thumbnailator
-  - Lombok
+📷 Other Tools
+- Thumbnailator
+- Lombok
 
-🧪 테스트 & 디버깅
-  - Postman
+🧪 Testing & Debugging
+- Postman
 
 <h2>4. ERD</h2>
 
 <img src="https://github.com/user-attachments/assets/2357e86f-5406-49a5-ac8e-4dea61ea3208"/>
 
-<h2>5. 담당 업무</h2>
-5-1 퍼블리싱
+<h2>5. Responsibilities</h2>
+5-1 Publishing
 
 <img src="https://github.com/user-attachments/assets/229c922f-606c-4bad-8ef1-4074199228ee"/>
 
-▶ 공식 채널
-- 공식 채널 홈 (공지사항, 챌린지)
-- 공지 사항 목록
+▶ Official Channel
+- Official channel homepage (Notices, Challenges)
+- Notice list
 
-▶ 메인 페이지
-- 메인 페이지 헤더, 풋터
-- 메인 페이지
-- 감정 일기 작성/수정/AI 화면
-- 포스트, 응원글 작성/수정/미리보기 화면
-- 검색 모달, 통합 검색 결과 화면
-- 자주 묻는 질문 목록/상세
-- 1:1 문의(E-mail)
+▶ Main Page
+- Header, Footer
+- Main Page
+- Emotion diary creation/editing/AI view
+- Post, support message creation/editing/preview view
+- Search modal, integrated search result view
+- FAQ list/detail
+- 1:1 Inquiry (Email)
 
-▶ 개인 페이지
-- 새 채널 만들기
-- 개인 채널 메인 (감정 기록, 포스트, 응원글)
-- 감정 기록 목록
-- 포스트 목록
-- 응원글 목록
+▶ Personal Page
+- Create new channel
+- Personal channel main (Emotion Diary, Posts, Support Messages)
+- Emotion Diary List
+- Post List
+- Support Message List
 
-▶ 사이트 소개 / 404 에러 페이지
-- 사이트 소개
-- 404 에러 페이지
+▶ About Site / 404 Error Page
+- About Page
+- 404 Error Page
 
-5-2 서버
+5-2 Server
 
 <img src="https://github.com/user-attachments/assets/a44b1be7-e117-4696-990b-d42c776841c7"/>
 <img src="https://github.com/user-attachments/assets/778d1d2a-5dfa-492d-8fdf-8d4b688a11c3"/>
 
-▶ 공식 채널
-- 공식 채널 홈 화면 및 기본 정보 출력
-- 공지사항 목록 및 페이징 처리
-- 챌린지 목록 출력
-- 채널 구독 및 구독 취소 기능
+▶ Official Channel
+- Home screen and basic info display
+- Notice list with pagination
+- Display challenge list
+- Channel subscription/unsubscription feature
 
-▶ 메인페이지
-- 작성 기능
-    - 감정일기 / 일반포스트 / 응원글 작성 버튼 제공
-    - 각각의 작성 폼은 JQuery SummerNote 에디터 사용 (글꼴/이미지 첨부 지원)
-    - 대표 이미지 업로드 기능
-    - 사용자 입력 기반 태그 기능 (중복 태그 차단, 실시간 chip 렌더링)
-- 감정일기 기능
-    - 작성 완료 후 AI 기반 감정 스코어 평가
-    - 감정 점수에 따른 이모티콘 / 응원 멘트 출력
-    - 사용자가 직접 감정 스코어 재선택 가능
-    - 공개 범위 설정: 전체 공개 / 구독자 전용 / 비공개
-    - 닉네임 공개 여부 설정: 닉네임 / 익명
-    - 감정일기 수정 시에도 AI 분석 결과 재출력 가능
-- 일반포스트 / 응원글 기능
-    - 포스트 타입 설정: 일반포스트 / 응원글
-    - 작성 후 미리보기 화면 제공
-    - 태그, 대표 이미지 기능 포함
-    - 작성 및 수정 지원
-- 알림 기능
-    - 헤더 알림 버튼 클릭 시 알림 드롭다운 출력 
-    - 구독자 알림
-    - 받은 메시지
-    - 포스트/응원글 댓글/좋아요
-    - 커뮤니티 포스트 / 좋아요
-    - 알림 읽음 처리 / 알림 카운트 업데이트
-- 검색 기능 
-    - 헤더 검색 아이콘 클릭 시 검색 모달 열림
-    - 키워드 입력 시, 아래 항목별 결과 구분 출력
-        - 감정일기
-        - 일반포스트
-        - 응원글
-        - 채널
-    - 각 섹션 당 5개씩 초기 표시, ‘더보기’ 클릭 시 추가 로딩
-    - 채널은 구독 / 구독 취소 기능 포함
-    - 결과 항목
-        - 썸네일
-        - 제목
-        - 내용 일부
-        - 작성자 닉네임
-        - 태그 정보 포함
-    - 연관 검색어 / 추천 검색 태그 자동 노출
-    - 검색창 입력값은 엔터 또는 검색 버튼 클릭 시 검색 트리거
+▶ Main Page
+- Write Features
+    - Provide buttons to write Emotion Diary / General Post / Support Message
+    - Use JQuery SummerNote editor for each form (supports fonts/image upload)
+    - Representative image upload
+    - Tag input based on user input (prevents duplicates, renders chips in real time)
+- Emotion Diary
+    - AI-based emotion score evaluation after submission
+    - Display emoticon/message based on score
+    - Allow users to manually select emotion score
+    - Visibility options: Public / Subscribers only / Private
+    - Nickname visibility options: Show / Anonymous
+    - Re-display AI analysis on edit
+- General Post / Support Message
+    - Set post type: General / Support
+    - Preview after creation
+    - Include tags and thumbnail
+    - Support edit
+- Notification
+    - Notification dropdown when header button clicked
+    - Subscriber notifications
+    - Received messages
+    - Post/support comments/likes
+    - Community post/like
+    - Mark as read / update count
+- Search
+    - Search modal opens when clicking header icon
+    - On keyword input, show results by:
+        - Emotion Diary
+        - General Post
+        - Support Message
+        - Channel
+    - Load 5 items initially, “More” loads more
+    - Subscribe/Unsubscribe for channels
+    - Result items include:
+        - Thumbnail
+        - Title
+        - Snippet of content
+        - Author nickname
+        - Tag info
+    - Auto-suggest related keywords and popular tags
+    - Search triggered via Enter or button
 
+▶ Support
+- FAQ list page
+- FAQ detail page
+- 1:1 inquiry via email
 
-▶ 고객 지원
-- 자주 묻는 질문 목록 페이지
-- FAQ 상세 보기 페이지
-- 1:1 문의 메일 작성 기능
+▶ Personal Channel
+- Home screen composition
+- Tabs for Emotion Diary / Free Posts / Support Messages
+- Pagination + subscriber-only restriction
 
-▶ 개인 채널
-- 개인 채널 홈 화면 구성
-- 감정일기 / 자유 게시글 / 응원글 탭 별 콘텐츠 구분
-- 각 콘텐츠는 페이징 및 구독자 전용 콘텐츠 제한 기능 포함
+<h2>6. Troubleshooting</h2>
 
-<h2>6. 트러블슈팅</h2>
+<h3>1. Problem</h3> 
+💡 Duplicate saving of Summernote image files in DB
 
-<h3>1. 문제</h3> 
-💡 썸머노트 이미지 파일 DB 이중 저장 문제
+<h3>2. Solution</h3>
+✏️ Refactored based on features, not HTML. Divided JS files per feature for easier maintenance and to avoid duplication.
 
-<h3>2. 해결</h3>
-✏️ HTML 기준이 아닌 기능 기준으로 모듈화를 진행했다. 각 기능별로 JS 파일을 나누어 중복 방지 및 유지보수 용이성을 확보했다.
+<h2>7. Reflections</h2>
 
+<h3>🌱 Confidence Built Through Familiarity </h3>
+I felt that I had grown compared to my previous projects. Compared to before, I was able to work at a faster pace, and many of the codes and patterns were things I had seen in past projects as well as during this one, so I could proceed without hesitation. Even when something new came up, I was able to understand how it worked much faster than before, making it easier to use unfamiliar code. Although learning something new is always challenging at first, once I actually tried using it, it became more enjoyable.
 
+<h3>🧭 Thorough Planning Determines the Outcome</h3>
+I was once again reminded that poor planning inevitably leads to consequences during the coding phase. Parts I had glossed over in the planning stage with a “this should be fine” mindset ended up becoming far bigger obstacles during implementation than I had expected. A small gap in planning changed the entire flow and forced me to roll back code multiple times. For the next project, I’m determined to create more detailed planning documents and include practical-level flowcharts and clear state definitions from the start.
 
-<h2>7. 느낀점</h2>
+<h3>🚧 Deployment marks the beginning, not the end.</h3>
+Features that worked flawlessly during development caused unexpected issues in the production environment. Things that seemed minor—like session handling, cookie behavior, or image paths—turned out to be critical errors from the user's perspective. I realized that for a developer, deployment isn't just about pushing code to a server—it's the starting point of real user interaction. Moving forward, I will make it a habit to anticipate a wider range of scenarios during the testing phase and always evaluate from the end-user’s point of view.
 
-<h3>🌱 익숙함이 쌓여 자신감으로</h3>
-내 자신이 이전 프로젝트보다 발전 했다는 생각이 들었다. 이전 프로젝트와 비교해서 비교적 속도도 붙고, 코드들도 이전 프로젝트에서도 그렇고 현 프로젝트를 진행하면서도 많이 봐왔던 것들이라 막힘없이 할 수 있었다.
-또 새로운게 나오더라도 어떻게 작동하는지 전 프로젝트보다는 빠르게 이해 할 수 있어서 새로운 코드도 사용하는데 있어서 어렵지 않았다. 새로운 것을 배울때는 어렵지만 막상 사용 해보고 나니 더 재밋어졌다.
+<h3>🔍 Small Mistakes Can Consume a Lot of Debugging Time</h3>
+I spent much more time tracking down small errors than actually writing code. Simple things like typos, missing conditions, or minor query mistakes often disrupted the entire flow. Through repeated experiences like this, I realized how important it is to be careful with every single line of code. While the phrase “let’s get it right from the start” is common, I truly felt that it takes real discipline and focus to actually follow through on it.
 
-<h3>🧭 기획의 세밀함이 결과를 좌우한다</h3>
-기획이 미흡하면 코딩 단계에서 반드시 그 대가를 치르게 된다는 걸 다시 한 번 실감했다. 기획 단계에서 ‘이 정도면 되겠지’ 하고 넘겼던 부분이 실제 구현 단계에서 예상보다 더 큰 장애물로 다가왔다.
-작은 빈틈 하나가 전체 흐름을 바꾸고, 여러 번 코드를 되돌리게 만들었다. 다음 프로젝트에서는 기획 문서를 더 세분화하고, 실무 수준의 흐름도나 상태 정의를 반드시 포함시켜야겠다고 다짐했다.
+<h3>📘 Documentation Is a Developer’s Weapon</h3>
+Even just a few days after writing my own code, I found it difficult to understand the flow again. In areas with complex logic or heavily conditional queries, a single line of comments made a huge difference. During this project, I had documented the use of an interceptor that the instructor taught us early on—but as development got busy, I forgot to apply it in the actual flow. It wasn’t until a review session with the instructor that the omission was pointed out, and only then did I realize what I had missed and go back to fix it.
 
-<h3>🚧 배포는 개발의 끝이 아니라 시작</h3>
-개발 중에는 전혀 문제가 없던 기능들이, 실제 배포 환경에서는 예상치 못한 오류를 만들어냈다. 세션 처리, 쿠키 동작, 이미지 경로 등 사소해 보이던 것들이 사용자 입장에선 치명적인 오류로 느껴질 수 있었다.
-개발자에게 배포는 단순히 코드를 서버에 올리는 작업이 아니라, 실제 사용자를 만나는 출발점이라는 걸 잊지 말아야 한다고 느꼈다. 앞으로는 테스트 단계에서 더 다양한 케이스를 상정하고, 실사용 관점에서 점검하는 습관을 들일 것이다.
+This experience taught me a hard lesson: documentation without follow-through is meaningless. It’s not enough to simply write things down—important parts must be regularly checked and integrated into the code. From now on, I’ll make it a habit not only to maintain comments, technical notes, and specifications, but also to turn that documentation into action. I aim to become a developer who treats documentation as a natural part of development.
 
-<h3>🔍 사소한 실수가 디버깅 시간을 잡아먹는다</h3>
-직접 코드를 짜는 시간보다 사소한 오류를 찾는 시간이 훨씬 오래 걸렸다. 오타, 누락된 조건문, 쿼리의 작은 실수들이 전체 흐름을 막아버리는 경험을 여러 번 하며, 코드 한 줄 한 줄에 더 신중해질 필요성을 느꼈다.
-"처음부터 제대로 짜자"는 다짐은 흔하지만, 실제로 지키기 위해선 습관과 집중력이 필요하다는 걸 절실히 느꼈다.
-
-<h3>📘 기록은 개발자의 무기다</h3>
-작성한 코드를 며칠만 지나도 내가 짠 코드임에도 흐름을 파악하는 데 시간이 걸렸다. 특히 로직이 복잡한 부분이나 조건이 많은 쿼리에서는 주석 한 줄이 큰 도움이 됐다.
-이번 프로젝트 중에도, 강사님께서 알려주신 인터셉터를 초기에 기록해 두었지만, 개발이 바빠지면서 해당 부분을 깜빡하고 실제 흐름에 적용하지 않은 채 진행하고 있었다. 이후 강사님과의 점검 중에 인터셉터가 누락된 것을 지적받았고, 그제서야 내가 빠뜨렸던 걸 인지하고 다시 반영하게 되었다.
-
-이 일을 통해 ‘기록만 해두고 기억하지 않으면 의미가 없다’는 걸 뼈저리게 느꼈고, 단순히 정리해두는 걸 넘어, 중요한 부분은 직접 코드에 반영되었는지 수시로 확인하고 습관처럼 체크해야겠다고 다짐했다.
-앞으로는 주석, 기술 노트, 기능 명세서 등을 꾸준히 남기는 것은 물론, 기록을 행동으로 연결하는 습관까지 갖춘 개발자가 되고 싶다.
